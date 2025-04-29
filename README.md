@@ -14,4 +14,4 @@ Funktion: Funktionen werden importiert --> time wird kumulativ und individuell b
 
 Show the plot: 
 
-![alt text](image.png)
+![alt text](power_curve.png)
