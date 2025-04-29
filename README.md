@@ -11,5 +11,4 @@ Ausführung:
 3. File power_curve ausführen
 
 Funktion: Funktionen werden importiert --> time wird kumulativ und individuell bestimmt --> Daten werden eingelesen --> Graph wird mit matplotlib erstellt
-Show the plot:
-power_curve.png
+                                                                                                       Show the plot: ![alt text](image.png)
